@@ -1,0 +1,10 @@
+﻿  glad.c
+  main.cpp
+F:\GIT\Projects\Shadow\LearnOpenGL\src\ibl.h(258,25): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+F:\GIT\Projects\Shadow\LearnOpenGL\src\ibl.h(259,26): warning C4244: “初始化”: 从“double”转换到“unsigned int”，可能丢失数据
+F:\GIT\Projects\Shadow\LearnOpenGL\src\light.h(94,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\GIT\Projects\Shadow\LearnOpenGL\src\font.h(142,33): warning C4838: 从“FT_Pos”转换到“GLuint”需要收缩转换
+F:\GIT\Projects\Shadow\LearnOpenGL\src\fps.h(39,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  glm.cpp
+  正在生成代码...
+  LearnOpenGL.vcxproj -> F:\GIT\Projects\Shadow\x64\Debug\LearnOpenGL.exe
